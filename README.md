@@ -7,4 +7,7 @@
 
 2) use Instantid with a text to image diffusion model
             i) juggernaut_reborn.safetensors -> diffusion model ( text to image)
+            ii) InstantX/InstantID -> instant id  
+
+            i) kpsss34/FHDR_Uncensored -> diffusion model (text to image)
             ii) InstantX/InstantID -> instant id            
